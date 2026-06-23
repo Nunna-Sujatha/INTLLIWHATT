@@ -1,0 +1,53 @@
+{
+  "user_id": "default",
+  "appliances": [
+    {
+      "id": "ap_001",
+      "name": "Fan",
+      "power_rating": 75,
+      "unit": "W",
+      "quantity": 1,
+      "average_daily_hours": 8
+    },
+    {
+      "id": "ap_002",
+      "name": "Refrigerator",
+      "power_rating": 150,
+      "unit": "W",
+      "quantity": 1,
+      "average_daily_hours": 24
+    },
+    {
+      "id": "ap_003",
+      "name": "Air Conditioner",
+      "power_rating": 1500,
+      "unit": "W",
+      "quantity": 1,
+      "average_daily_hours": 6
+    },
+    {
+      "id": "ap_004",
+      "name": "Television",
+      "power_rating": 100,
+      "unit": "W",
+      "quantity": 1,
+      "average_daily_hours": 4
+    },
+    {
+      "id": "ap_005",
+      "name": "Monitor",
+      "power_rating": 50,
+      "unit": "W",
+      "quantity": 1,
+      "average_daily_hours": 8
+    },
+    {
+      "id": "ap_006",
+      "name": "Motor Pump",
+      "power_rating": 750,
+      "unit": "W",
+      "quantity": 0,
+      "average_daily_hours": 1
+    }
+  ]
+}
